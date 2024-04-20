@@ -26,4 +26,4 @@
 - 💬 Ask me about crypto mining
 - 📫 How to reach me at: amadeuskaczmarek@gmail.com or view my LinkedIN
 - 😄 I'm looking for interships starting in 2024
-- ⚡ Fun fact: When I'm not coding, you can find me at the gym, or hitting the slopes skiing
+- ⚡ Fun fact: When I'm not coding, you can find me at the gym, or hitting the slopes snowboarding
