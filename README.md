@@ -23,7 +23,6 @@
 - 🔭 I’m interested in full stack development, computer engineering, and cyber security
 - 🌱 I’m currently learning about distributed systems
 - 👯 I’m looking to collaborate on any project that develops my skills    
-- 💬 Ask me about crypto mining
-- 📫 How to reach me at: amadeuskaczmarek@gmail.com or view my LinkedIN
-- 😄 I'm looking for interships starting in 2024
+- 📫 How to reach me at: amadeuskaczmarek@gmail.com
+<! -- - 😄 I'm looking for interships starting in 2025 -->
 - ⚡ Fun fact: When I'm not coding, you can find me at the gym, or hitting the slopes snowboarding
