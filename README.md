@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+    <!-- - 😄 I'm looking for interships starting in 2025 -->
   </p> 
 
 
@@ -24,5 +25,4 @@
 - 🌱 I’m currently learning about distributed systems
 - 👯 I’m looking to collaborate on any project that develops my skills    
 - 📫 How to reach me at: amadeuskaczmarek@gmail.com
-<! -- - 😄 I'm looking for interships starting in 2025 -->
-- ⚡ Fun fact: When I'm not coding, you can find me at the gym, or hitting the slopes snowboarding
+- ⚡ Fun fact: When I'm not coding, you can find me at the gym, or outdoors hiking/snowboarding
