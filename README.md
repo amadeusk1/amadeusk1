@@ -25,4 +25,4 @@
 - 🌱 I’m currently learning about distributed systems
 - 👯 I’m looking to collaborate on any project that develops my skills    
 - 📫 How to reach me at: amadeuskaczmarek@gmail.com
-- ⚡ Fun fact: When I'm not coding, you can find me at the gym, or outdoors hiking/snowboarding
+- ⚡: When I'm not coding, you can find me at the gym, or outdoors hiking/snowboarding
