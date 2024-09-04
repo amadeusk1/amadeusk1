@@ -21,8 +21,8 @@
   </p> 
 
 
-- 🔭 I’m interested in full stack development, computer engineering, and cyber security
+<!-- - 🔭 I’m interested in full stack development, computer engineering, and cyber security
 - 🌱 I’m currently learning about distributed systems
-- 👯 I’m looking to collaborate on any project that develops my skills    
+- 👯 I’m looking to collaborate on any project that develops my skills    -->
 - 📫 How to reach me at: amadeuskaczmarek@gmail.com
 - ⚡: When I'm not coding, you can find me at the gym, or outdoors hiking/snowboarding
