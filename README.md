@@ -16,7 +16,7 @@ Interested in AI and cybersecurity. <br><br>📫 How to reach me at: amadeuskacz
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amadeus) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Amadeuskaczmarek) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
