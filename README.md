@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in AI and cybersecurity. <br><br>📫 How to reach me at: amadeuskaczmarek@gmail.com<br>
+Interested in developing useful applications, AI and cybersecurity. <br><br>📫 How to reach me at: amadeuskaczmarek@gmail.com or contact@amadeus.dev<br>
 
 
 ## 🌐 Socials:
