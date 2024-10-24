@@ -11,12 +11,11 @@ Interested in developing useful applications, AI and cybersecurity. <br><br>📫
 ![](https://github-readme-stats.vercel.app/api?username=amadeusk1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amadeusk1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusk1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Amadeuskaczmarek) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
