@@ -1,6 +1,6 @@
 # 💫 About Me:
 Interested in developing useful applications, AI and cybersecurity. 
-<br>**Current Focus:** Learning Python <span style="color:red"> *some emphasized markdown text*</span><br><br>📫 How to reach me at: amadeuskaczmarek@gmail.com or contact@amadeusk.dev<br>
+<br>**Current Focus:** Learning Python <span style="color:blue">some *blue* text</span>.<br><br>📫 How to reach me at: amadeuskaczmarek@gmail.com or contact@amadeusk.dev<br>
 
 
 ## 🌐 Socials:
