@@ -1,6 +1,6 @@
 # 💫 About Me:
 Interested in developing useful applications, AI and cybersecurity. 
-<br>**Current Focus:** Learning Python <br><br>📫 How to reach me at: amadeuskaczmarek@gmail.com<br>
+<br>**Current Focus:** Object Oriented Programing <br><br>📫 How to reach me at: amadeuskaczmarek@gmail.com<br>
 
 
 ## 🌐 Socials:
