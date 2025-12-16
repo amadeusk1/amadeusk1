@@ -1,6 +1,6 @@
 # 💫 About Me:
 Interested in servers, web design and cybersecurity. 
-<br>**Current Focus:** Game devlopment  <br><br>📫 How to reach me at: amadeuskaczmarek@gmail.com<br>
+<br>**Current Focus:** Game devlopment  <br><br>📫 How to reach me at: contact@amadeusk.dev<br>
 
 
 ## 🌐 Socials:
