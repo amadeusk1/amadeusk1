@@ -1,10 +1,11 @@
 # 💫 About Me:
-Interested in servers, web design and cybersecurity. 
+Interested in web design and cybersecurity. 
 <br>**Current Focus:** Android App Development  <br><br>📫 How to reach me at: contact@amadeusk.dev<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amadeus.kaczmarek) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadeus-kaczmarek-a09302281)
+[![Website](https://img.shields.io/badge/Website-amadeusk.dev-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amadeusk.dev/home.html)
 
 # 💻 Tech Stack:
 <!--![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)--> 
@@ -19,7 +20,7 @@ Interested in servers, web design and cybersecurity.
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=amadeusk1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amadeusk1&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusk1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusk1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusk1&theme=dark&hide_border=false&layout=compact&langs_count=8)
 <!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
