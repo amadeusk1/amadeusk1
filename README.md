@@ -18,10 +18,7 @@ Interested in web design and cybersecurity.
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 <!--![Git](https://img.shields.io/badge/git-%23F05033.svg? style=for-the-badge&logo=git&logoColor=white)--> <!--![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)--> 
 # 📊 GitHub Stats:
-<a href="https://github.com/amadeusk1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadeusk1&theme=dark&hide_border=false&layout=compact&langs_count=10" />
-</a>
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadeusk1&theme=dark&hide_border=false&layout=compact&langs_count=10)
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Amadeuskaczmarek) 
 
