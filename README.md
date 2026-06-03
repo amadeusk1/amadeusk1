@@ -18,12 +18,9 @@ Interested in web design and cybersecurity.
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 <!--![Git](https://img.shields.io/badge/git-%23F05033.svg? style=for-the-badge&logo=git&logoColor=white)--> <!--![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)--> 
 # 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=amadeusk1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amadeusk1&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusk1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadeusk1&theme=dark&hide_border=false&layout=compact&langs_count=8)
-<!--
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
+<a href="https://github.com/amadeusk1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadeusk1&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+</a>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Amadeuskaczmarek) 
